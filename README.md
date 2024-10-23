@@ -1,11 +1,11 @@
-# [Name] - Vision 15 Days of Code Log
+# Gaurav - Vision 15 Days of Code Log
 
 ### Day 1
 
-[Month] [Date], 2022
+10 23, 2022
 
-- Question 1
-  [Submission Link]
-- Question 2
-  [Submission Link]
+- Forked!
+  https://codeforces.com/contest/1904/submission/287455886
+- Chemistry
+  https://codeforces.com/contest/1883/submission/287476218
 - Other Tasks
