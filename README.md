@@ -14,3 +14,15 @@
   https://codeforces.com/problemset/submission/1875/287485723
 - Other Tasks
 - CodeChef contest START157C
+
+  
+  ### Day 2
+
+10 24, 2022
+
+- Upsolve q3 157C
+  https://www.codechef.com/viewsolution/1101112350
+
+- Upsolve q4 157C
+  https://www.codechef.com/viewsolution/1101092629
+  
