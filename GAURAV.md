@@ -32,6 +32,26 @@
 - B. Longest Divisors Interval
   https://codeforces.com/contest/1855/submission/287658931
 
-- Codeforces Round 981 (Div. 3) 
+- Codeforces Round 981 (Div. 3)
+
+
+    ### Day 3
+
+    10 25, 2022
+
+  - Upsolve q2 B - Sakurako and Water 
+  https://codeforces.com/contest/2033/submission/287854902
+
+  - B Comparison String
+  https://codeforces.com/contest/1837/submission/287870595
+
+  - Balanced Round
+  https://codeforces.com/contest/1850/submission/287660397
+
+  - B. Permutation Swap
+  https://codeforces.com/contest/1837/submission/287870595
+
+  - D. Odd Queries
+  https://codeforces.com/contest/1807/submission/287926612
   
   
