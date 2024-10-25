@@ -25,4 +25,11 @@
 
 - Upsolve q4 157C
   https://www.codechef.com/viewsolution/1101092629
+
+- A. Make It Zero
+  https://codeforces.com/contest/1869/submission/287651379
+
+- B. Longest Divisors Interval
+  https://codeforces.com/contest/1855/submission/287658931
+  
   
