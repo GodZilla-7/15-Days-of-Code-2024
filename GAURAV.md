@@ -2,7 +2,7 @@
 
 ### Day 1
 
-10 23, 2022
+23/10/2022
 
 - Forked!
   https://codeforces.com/contest/1904/submission/287455886
@@ -18,7 +18,7 @@
   
   ### Day 2
 
-10 24, 2022
+24/10/2022
 
 - Upsolve q3 157C
   https://www.codechef.com/viewsolution/1101112350
@@ -37,7 +37,7 @@
 
     ### Day 3
 
-    10 25, 2022
+ 25/10/2022
 
 - Upsolve q2 B - Sakurako and Water 
 https://codeforces.com/contest/2033/submission/287854902
@@ -58,7 +58,7 @@ https://codeforces.com/contest/1807/submission/287926612
 
     ### Day 4
 
-    10 26, 2022
+  26/10/2022
 
 - Learn Python - Full Course for Beginners [2 hrs/4.5hrs]
 https://youtu.be/rfscVS0vtbw?si=i8CXg73c3Fini6BL
