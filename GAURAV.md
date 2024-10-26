@@ -66,9 +66,6 @@ https://youtu.be/rfscVS0vtbw?si=i8CXg73c3Fini6BL
 - B. Not Dividing
 https://codeforces.com/contest/1794/submission/288062990
 
-- Balanced Round
-https://codeforces.com/contest/1850/submission/287660397
-
 - A. Mainak and Array
 https://codeforces.com/contest/1726/submission/288069559
 
