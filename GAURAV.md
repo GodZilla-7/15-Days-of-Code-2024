@@ -39,19 +39,39 @@
 
     10 25, 2022
 
-  - Upsolve q2 B - Sakurako and Water 
-  https://codeforces.com/contest/2033/submission/287854902
+- Upsolve q2 B - Sakurako and Water 
+https://codeforces.com/contest/2033/submission/287854902
 
-  - B Comparison String
-  https://codeforces.com/contest/1837/submission/287870595
+- B Comparison String
+https://codeforces.com/contest/1837/submission/287870595
 
-  - Balanced Round
-  https://codeforces.com/contest/1850/submission/287660397
+- Balanced Round
+https://codeforces.com/contest/1850/submission/287660397
 
-  - B. Permutation Swap
-  https://codeforces.com/contest/1837/submission/287870595
+- B. Permutation Swap
+https://codeforces.com/contest/1837/submission/287870595
 
-  - D. Odd Queries
-  https://codeforces.com/contest/1807/submission/287926612
-  
+- D. Odd Queries
+https://codeforces.com/contest/1807/submission/287926612
+
+
+
+    ### Day 4
+
+    10 26, 2022
+
+- Learn Python - Full Course for Beginners [2 hrs/4.5hrs]
+https://youtu.be/rfscVS0vtbw?si=i8CXg73c3Fini6BL
+
+- B. Not Dividing
+https://codeforces.com/contest/1794/submission/288062990
+
+- Balanced Round
+https://codeforces.com/contest/1850/submission/287660397
+
+- A. Mainak and Array
+https://codeforces.com/contest/1726/submission/288069559
+
+- Codeforces Round 982 (Div. 2)
+
   
