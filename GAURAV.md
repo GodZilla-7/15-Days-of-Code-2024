@@ -72,3 +72,23 @@ https://codeforces.com/contest/1726/submission/288069559
 - Codeforces Round 982 (Div. 2)
 
 
+
+### Day 5
+
+27/10/2022
+
+-  B - NIT Destroys the Universe 
+https://codeforces.com/contest/1696/submission/288246399
+
+- A. Dual Trigger
+https://codeforces.com/contest/1951/submission/288265994
+
+- B. Battle Cows
+https://codeforces.com/contest/1951/submission/288274581
+
+- A. Strange Splitting
+https://codeforces.com/contest/1984/submission/288286097
+
+- Codeforces Global Round 27 (solved 2 ques)
+
+
