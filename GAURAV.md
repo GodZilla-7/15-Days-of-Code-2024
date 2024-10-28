@@ -92,3 +92,20 @@ https://codeforces.com/contest/1984/submission/288286097
 - Codeforces Global Round 27 (solved 2 ques)
 
 
+
+### Day 6
+
+28/10/2022
+
+- Learn Python - Full Course for Beginners
+https://youtu.be/rfscVS0vtbw?si=i8CXg73c3Fini6BL
+
+- B. Make It Increasing
+https://codeforces.com/contest/1675/submission/288468062
+
+- A. AvtoBus
+https://codeforces.com/contest/1679/submission/288449498
+
+- Educational Codeforces Round 171 (Rated for Div. 2) 
+
+
