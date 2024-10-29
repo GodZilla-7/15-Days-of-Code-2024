@@ -106,6 +106,25 @@ https://codeforces.com/contest/1675/submission/288468062
 - A. AvtoBus
 https://codeforces.com/contest/1679/submission/288449498
 
-- Educational Codeforces Round 171 (Rated for Div. 2) 
+- Educational Codeforces Round 171 (Rated for Div. 2)
+
+
+
+
+### Day 7
+
+29/10/2022
+
+- Learn Python - Full Course for Beginners
+https://youtu.be/rfscVS0vtbw?si=i8CXg73c3Fini6BL
+
+- D. Deletive Editing
+https://codeforces.com/contest/1666/submission/288709250
+
+- B. Array Cloning Technique
+https://codeforces.com/contest/1665/submission/288784806
+
+- B. Make AP
+https://codeforces.com/contest/1624/submission/288787228
 
 
