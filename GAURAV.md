@@ -134,8 +134,8 @@ https://codeforces.com/contest/1624/submission/288787228
 
 30/10/2022
 
-B. Odd Grasshopper
-- https://codeforces.com/contest/1607/submission/288836137
+- B. Odd Grasshopper
+https://codeforces.com/contest/1607/submission/288836137
 
 - Starters 158 (Rated) contest
 
