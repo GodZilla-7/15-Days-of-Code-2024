@@ -138,6 +138,21 @@ https://codeforces.com/contest/1624/submission/288787228
 https://codeforces.com/contest/1607/submission/288836137
 
 - Starters 158 (Rated) contest
+  
+
+
+
+### Day 10
+
+1/11/2022
+
+- 71A - Way Too Long Words 
+https://codeforces.com/problemset/submission/71/289308756
+
+- B. Make it Divisible by 25
+https://codeforces.com/contest/1593/submission/289021383
+
+- Codeforces Round 983 (Div. 2)
 
 
 
