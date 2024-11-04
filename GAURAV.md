@@ -176,3 +176,14 @@ https://codeforces.com/contest/1883/submission/289800122
 
 
 
+### Day 13
+
+4/11/2024
+
+- A. Helmets in Night Light
+   https://codeforces.com/contest/1876/submission/289967322
+  
+- L1. Introduction to LinkedList | Traversal | Length | Search an Element
+  https://youtu.be/Nq7ok-OyEpg?si=7wwU7jGOYc_sX7aI
+
+
