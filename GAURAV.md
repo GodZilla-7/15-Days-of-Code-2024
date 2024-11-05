@@ -187,3 +187,18 @@ https://codeforces.com/contest/1883/submission/289800122
   https://youtu.be/Nq7ok-OyEpg?si=7wwU7jGOYc_sX7aI
 
 
+
+### Day 13
+
+5/11/2024
+
+- B. Olya and Game with Arrays
+https://codeforces.com/contest/1859/submission/290116763
+
+- B. Monsters
+https://codeforces.com/contest/1849/submission/290138090
+  
+- L2. Deletion and Insertion in LL | 8 Problems
+  https://youtu.be/VaECK03Dz-g?si=vHSwdf9jhE05adKM&t=1934
+
+
