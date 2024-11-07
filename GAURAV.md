@@ -188,7 +188,7 @@ https://codeforces.com/contest/1883/submission/289800122
 
 
 
-### Day 13
+### Day 14
 
 5/11/2024
 
@@ -200,5 +200,19 @@ https://codeforces.com/contest/1849/submission/290138090
   
 - L2. Deletion and Insertion in LL | 8 Problems
   https://youtu.be/VaECK03Dz-g?si=vHSwdf9jhE05adKM&t=1934
+
+
+  
+### Day 15
+
+6/11/2024
+
+- C. Ski Resort
+https://codeforces.com/contest/1840/submission/290286947
+
+- 125. Valid Palindrome
+https://leetcode.com/problems/valid-palindrome/submissions/1445077621/
+  
+- Starters 159 (Div 3)
 
 
