@@ -208,10 +208,10 @@ https://codeforces.com/contest/1849/submission/290138090
 6/11/2024
 
 - C. Ski Resort
-https://codeforces.com/contest/1840/submission/290286947
+ https://codeforces.com/contest/1840/submission/290286947
 
-- 125. Valid Palindrome
-https://leetcode.com/problems/valid-palindrome/submissions/1445077621/
+- Valid Palindrome
+ https://leetcode.com/problems/valid-palindrome/submissions/1445077621/
   
 - Starters 159 (Div 3)
 
